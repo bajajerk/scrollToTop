@@ -1,0 +1,15 @@
+body{
+	height: 300vh;
+}
+
+#moveToTop{
+	position: fixed;
+	right: 5px;
+	bottom: 5px;
+}
+
+#leftMoveToTop{
+	position: fixed;
+	left: 5px;
+	bottom: 5px;
+}
